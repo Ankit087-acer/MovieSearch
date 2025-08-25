@@ -15,7 +15,7 @@ It features a hero section with a trailer, a navigation bar, trending movies, an
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 HTML5 – Structure
 
@@ -23,7 +23,7 @@ CSS3 – Styling, flexbox, gradients, overlays
 
 JavaScript (Vanilla) – Interactivity, transitions
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 ✅ Integrate with TMDB API for real movie data
 
@@ -33,7 +33,7 @@ JavaScript (Vanilla) – Interactivity, transitions
 
 ✅ Deploy online via GitHub Pages / Netlify
 
-📸 Demo
+## 📸 Demo
 
 Open the site in your browser.
 
